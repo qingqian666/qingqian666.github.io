@@ -17,3 +17,8 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+cyber security:
+  label: cyber security
+  permalink: /cybersecurity
+  description: cyber security
