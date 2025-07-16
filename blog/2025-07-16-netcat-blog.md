@@ -3,7 +3,7 @@
 slug: netcat的简单实践 
 title: Netcat 
 authors: guolei 
-tags: [cybersecurity,netcat] 
+tags: [cybersecurity] 
 
 --- 
 # Netcat的简单使用 
