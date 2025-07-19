@@ -1,8 +1,8 @@
 ---
-slug: Netcat
-title: Netcat的简单使用
+slug: Linux
+title: Linux学习记录
 authors: guolei
-tags: [cybersecurity,Linux]
+tags: [Linux]
 ---
 
 # 文件一致性校验——`md5sum`

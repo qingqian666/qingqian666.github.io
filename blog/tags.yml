@@ -22,3 +22,7 @@ cyber security:
   label: cyber security
   permalink: /cybersecurity
   description: cyber security
+Linux:
+  label: Linux
+  permalink: /linux
+  description: Linux tag description
